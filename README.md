@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:C4B5FD&height=190&section=header&text=Hello,%20World!&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" />
+<img https://capsule-render.vercel.app/api?type=waving&height=270&color=timeGradient&section=header&reversal=false&text=Bienvenido%21&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60 />
 
 # Hi there! I'm YOUR_NAME 👋
 
