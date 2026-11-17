@@ -1,14 +1,14 @@
- <!-- PROFILE README: DARK PURPLE -->
+<!-- PROFILE README: DARK PURPLE -->
 
 <div align="center">
 
 <img src= "https://capsule-render.vercel.app/api?type=waving&height=270&color=timeGradient&section=header&reversal=false&text=Bienvenido%21&textBg=false&fontColor=D9DBF0&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&stroke=A2A9BF&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" >
 
-# Hi there! I'm YOUR_NAME 👋
+# ¡Hola! Soy David Oritz
 
-### 💜 Software Development Student | Programmer | Tech Enthusiast
+###  Estudiante de Desarrollo de Software | Programador | Entusiasta de la Tecnología
 
-*Learning, building and exploring the world of technology.*
+*Aprendiendo, construyendo y explorando el mundo de la tecnología.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
@@ -16,25 +16,25 @@
 
 ---
 
-## 👨‍💻 About Me
+## Sobre mí
 
-- 🎓 I'm currently studying software development.
-- 💻 Interested in programming, software engineering and databases.
-- 🌱 Constantly learning and improving my technical skills.
-- 🔭 Working on personal and academic programming projects.
-- 🎯 My goal is to become a better developer by building useful solutions.
+- Actualmente estudio desarrollo de software.
+- Me interesan la programación, la ingeniería de software y las bases de datos.
+- Aprendo constantemente y mejoro mis habilidades técnicas.
+- Trabajo en proyectos de programación personales y académicos.
+- Mi meta es convertirme en un mejor desarrollador creando soluciones útiles.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Tecnologías y herramientas
 
-### Programming Languages
+### Lenguajes de programación
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
-### Databases & Development Tools
+### Bases de datos y herramientas de desarrollo
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode" />
@@ -42,30 +42,30 @@
 
 ---
 
-## 🚀 Featured Projects
+## Proyectos destacados
 
 <table>
 <tr>
 <td width="50%">
 
-### 📁 Project One
+### Proyecto uno
 
-Brief description of your first project.
+Breve descripción de tu primer proyecto.
 
-**Technologies:** Python, Java
+**Tecnologías:** Python, Java
 
-[View Repository →](https://github.com/YOUR_USERNAME/PROJECT_ONE)
+[Ver repositorio →](https://github.com/YOUR_USERNAME/PROJECT_ONE)
 
 </td>
 <td width="50%">
 
-### 🗄️ Project Two
+### Proyecto dos
 
-Brief description of your second project.
+Breve descripción de tu segundo proyecto.
 
-**Technologies:** PostgreSQL, SQL
+**Tecnologías:** PostgreSQL, SQL
 
-[View Repository →](https://github.com/YOUR_USERNAME/PROJECT_TWO)
+[Ver repositorio →](https://github.com/YOUR_USERNAME/PROJECT_TWO)
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ Brief description of your second project.
 
 ---
 
-## 📊 GitHub Statistics
+## Estadísticas de GitHub
 
 <div align="center">
 
@@ -89,7 +89,7 @@ Brief description of your second project.
 
 ---
 
-## 📫 Contact Me
+## Contáctame
 
 <div align="center">
 
@@ -105,10 +105,11 @@ Brief description of your second project.
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+### ¡Gracias por visitar mi perfil!
 
-*Building my future, one line of code at a time.*
+*Construyendo mi futuro, una línea de código a la vez.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,50:8B5CF6,100:6D28D9&height=100&section=footer" width="100%" />
 
 </div>
+
