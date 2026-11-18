@@ -48,30 +48,28 @@
 <tr>
 <td width="50%">
 
-### Proyecto uno
+### SICA
 
-Breve descripción de tu primer proyecto.
+Sistema académico de control de acceso.
 
-**Tecnologías:** Python, Java
+**Tecnologías:** Java, JDBC, MySQL
 
-[Ver repositorio →](https://github.com/YOUR_USERNAME/PROJECT_ONE)
+[Ver repositorio →](https://github.com/Davidortiz28/Proyecto_SICA)
 
 </td>
 <td width="50%">
 
-### Proyecto dos
+### Ecommerce
 
-Breve descripción de tu segundo proyecto.
+Proyecto web de comercio electrónico.
 
-**Tecnologías:** PostgreSQL, SQL
+**Tecnologías:** HTML, CSS
 
-[Ver repositorio →](https://github.com/YOUR_USERNAME/PROJECT_TWO)
+[Ver repositorio →](https://github.com/Davidortiz28/ProyectoHTML)
 
 </td>
 </tr>
 </table>
-
----
 
 ## Estadísticas de GitHub
 
